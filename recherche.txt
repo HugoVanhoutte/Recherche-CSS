@@ -1,0 +1,23 @@
+letter-spacing:
+propriété CSS définissant l'espacement entre les lettres composant un texte.
+
+Valeurs:
+- longeurs classiques: px, em, cm, in, etc.,
+- normal (par défaut)
+- valeurs globales (inherit, initial, unset)
+
+Héritée: oui
+
+overflow
+raccourci pour overflow-x et overflow-y
+Permet de controller la manière dont s'affiche le texte qui dépasse d'un bloc et le comportement de ce dernier.
+
+Valeurs:
+
+visible: le texte sort du bloc s'il dépasse
+hidden: le texte est caché
+clip: comme hidden, mais empêche le défilement à l'aide de scripts
+scroll: fait apparaitre une barre de défilement permettant à l'utilisateur de descendre pour afficher le reste du texte
+auto: laisse le choix au navigateur
+
+Héritée: non
